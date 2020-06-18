@@ -23,7 +23,8 @@
             "id": 4,
             "title": "Integration Failure",
             "completed": false
-        }{
+        },
+        {
             "userId": 1,
             "id": 5,
             "title": "Check Message Updated",
