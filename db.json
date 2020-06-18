@@ -5,12 +5,6 @@
             "id": 3,
             "title": "Bug Fix",
             "completed": false
-        },
-        {
-            "userId": 2,
-            "id": 1,
-            "title": "Change Icon",
-            "completed": true
         }
     ]
 }
