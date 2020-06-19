@@ -2,7 +2,7 @@
   "todos": [
     { "id": 1, "title": "Fix 1" ,"completed":false},
     { "id": 2, "title": "Promise not working","completed":true },
-    { "id": 3, "title": "Field Missing","completed":false},
+    { "id": 3, "title": "Field Missing","completed":false}
     
   ],
   "posts": [
