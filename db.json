@@ -25,11 +25,12 @@
       "postId": 1
     }
   ],
+  
   "profile": {
     "name": "typicode"
   },
-   "tasks": {
-        "task-1": { "id": "task-1", "content": "Take out the garbage", "completed": true }
-        
-    }
+  
+  "tasks": {
+        "task-1": { "id": "task-1", "content": "Take out the garbage", "completed": "true" }
+     }
 }
