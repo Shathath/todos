@@ -29,7 +29,7 @@
     "name": "typicode"
   },
    "tasks": {
-        "task-1": { "id": "task-1", "content": "Take out the garbage", completed: true }
+        "task-1": { "id": "task-1", "content": "Take out the garbage", "completed": true }
         
     }
 }
